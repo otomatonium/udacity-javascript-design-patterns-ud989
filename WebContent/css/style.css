@@ -18,3 +18,29 @@
 .credit {
 	font-size: 1.0em;
 }
+
+.img-group-frame {
+	padding: 10px;
+}
+
+.img-frame {
+	
+}
+
+.img-frame#cat {
+	float:left;
+}
+
+.img-frame#cat2 {
+	
+}
+
+img#cat {
+	width: auto;
+	height: 320px;
+}
+
+img#cat2{
+	width: auto;
+	height: 320px;
+}
